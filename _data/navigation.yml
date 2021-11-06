@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Lecture list"
+  - title: "Lecture List"
     url: /lecture-list/
   - title: "Sitemap"
     url: /sitemap/
