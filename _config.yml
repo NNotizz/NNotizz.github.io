@@ -208,6 +208,14 @@ kramdown:
   enable_coderay: false
 
 
+# Math equation
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
