@@ -1,6 +1,6 @@
 ---
 title: "Lecture List"
-layout: categories
+layout: category
 permalink: /categories/
 auther_profile: true
 ---
