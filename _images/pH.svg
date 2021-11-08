@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 82.84 300" style="enable-background:new 0 0 82.84 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'NotoSansKR-Medium-KSCpc-EUC-H';}
+	.st3{font-size:8px;}
+	.st4{font-size:6px;}
+	.st5{fill:#1D2088;}
+	.st6{fill:#E60012;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="35.1833" y1="37.1789" x2="35.1833" y2="263.341">
+	<stop  offset="0" style="stop-color:#1D2088"/>
+	<stop  offset="0.5" style="stop-color:#5A2275"/>
+	<stop  offset="0.75" style="stop-color:#9F1D50"/>
+	<stop  offset="1" style="stop-color:#E60012"/>
+</linearGradient>
+<rect x="17.47" y="36.53" class="st0" width="35.43" height="226.77"/>
+<text transform="matrix(1 0 0 1 30.623 55.1125)"><tspan x="0" y="0" class="st1 st2 st3">14</tspan><tspan x="0" y="14" class="st1 st2 st3">13</tspan><tspan x="0" y="28" class="st1 st2 st3">12</tspan><tspan x="0" y="42" class="st1 st2 st3">11</tspan><tspan x="0" y="56" class="st1 st2 st3">10</tspan><tspan x="2.28" y="70" class="st1 st2 st3">9</tspan><tspan x="2.28" y="84" class="st1 st2 st3">8</tspan><tspan x="2.28" y="98" class="st1 st2 st3">7</tspan><tspan x="2.28" y="112" class="st1 st2 st3">6</tspan><tspan x="2.28" y="126" class="st1 st2 st3">5</tspan><tspan x="2.28" y="140" class="st1 st2 st3">4</tspan><tspan x="2.28" y="154" class="st1 st2 st3">3</tspan><tspan x="2.28" y="168" class="st1 st2 st3">2</tspan><tspan x="2.28" y="182" class="st1 st2 st3">1</tspan><tspan x="2.28" y="196" class="st1 st2 st3">0</tspan></text>
+<text transform="matrix(1 0 0 1 -3.433228e-05 97.1126)"><tspan x="0" y="0" class="st2 st4">염기성</tspan><tspan x="5.52" y="56" class="st2 st4">중성</tspan><tspan x="5.52" y="112" class="st2 st4">산성</tspan></text>
+<text transform="matrix(1 0 0 1 53.56 55.1126)"><tspan x="0" y="0" class="st2 st4">1M NaOH</tspan><tspan x="0" y="28" class="st2 st4">암모니아</tspan><tspan x="0" y="77" class="st2 st4">베이킹 소다</tspan><tspan x="0" y="84" class="st2 st4">해수</tspan><tspan x="0" y="91" class="st2 st4">혈액</tspan><tspan x="0" y="98" class="st2 st4">순수한 물</tspan><tspan x="0" y="105" class="st2 st4">우유</tspan><tspan x="0" y="126" class="st2 st4">블랙커피</tspan><tspan x="0" y="154" class="st2 st4">식초</tspan><tspan x="0" y="161" class="st2 st4">레몬 쥬스</tspan><tspan x="0" y="168" class="st2 st4">위산</tspan><tspan x="0" y="182" class="st2 st4">베터리 산</tspan><tspan x="0" y="196" class="st2 st4">1M HCl</tspan></text>
+<polygon class="st5" points="35.18,0 6.84,36.82 63.53,36.82 "/>
+<polygon class="st6" points="35.18,300 6.84,263.18 63.53,263.18 "/>
+</svg>
