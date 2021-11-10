@@ -23,6 +23,97 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry03"%}
+                        <li><a href="/categories/chemistry03" class="">Chap.03 화학량론 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry04"%}
+                        <li><a href="/categories/chemistry04" class="">Chap.04 화학 반응의 종류와 용액의 화학량론 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry05"%}
+                        <li><a href="/categories/chemistry05" class="">Chap.05 기체 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry06"%}
+                        <li><a href="/categories/chemistry06" class="">Chap.06 열화학 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry07"%}
+                        <li><a href="/categories/chemistry07" class="">Chap.07 원자 구조와 주기성 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry08"%}
+                        <li><a href="/categories/chemistry08" class="">Chap.08 결합: 일반 개념 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry09"%}
+                        <li><a href="/categories/chemistry09" class="">Chap.09 공유결합: 오비탈 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry10"%}
+                        <li><a href="/categories/chemistry10" class="">Chap.10 액체와 고체 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry11"%}
+                        <li><a href="/categories/chemistry11" class="">Chap.11 용액의 특성 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry12"%}
+                        <li><a href="/categories/chemistry12" class="">Chap.12 화학 반응 속도론 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry13"%}
+                        <li><a href="/categories/chemistry13" class="">Chap.13 화학 평형 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry14"%}
+                        <li><a href="/categories/chemistry14" class="">Chap.14 산과 염기 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry15"%}
+                        <li><a href="/categories/chemistry15" class="">Chap.15 산-염기 평형 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
         <span class="nav__sub-title">MSE</span>
             <ul>
                 {% for category in site.categories %}
