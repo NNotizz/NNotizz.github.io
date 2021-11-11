@@ -129,6 +129,146 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE03" %}
+                        <li><a href="/categories/MSE03" class="">Chap.03 결정질 고체의 구조 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE04" %}
+                        <li><a href="/categories/MSE04" class="">Chap.04 고체 내의 결함 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE05" %}
+                        <li><a href="/categories/MSE05" class="">Chap.05 확산 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE06" %}
+                        <li><a href="/categories/MSE06" class="">Chap.06 금속의 기계적 성질 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE07" %}
+                        <li><a href="/categories/MSE07" class="">Chap.07 전위와 강화 기구 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE08" %}
+                        <li><a href="/categories/MSE08" class="">Chap.08 파손 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE09" %}
+                        <li><a href="/categories/MSE09" class="">Chap.09 상태도 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE10" %}
+                        <li><a href="/categories/MSE10" class="">Chap.10 상변태: 미세조직의 전개 및 기계적 성질의 변화 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE11" %}
+                        <li><a href="/categories/MSE11" class="">Chap.11 금속 합금의 활용 및 가공처리 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE12" %}
+                        <li><a href="/categories/MSE12" class="">Chap.12 세라믹의 구조 및 특성 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE13" %}
+                        <li><a href="/categories/MSE13" class="">Chap.13 세라믹의 응용 및 공정 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE14" %}
+                        <li><a href="/categories/MSE14" class="">Chap.14 폴리머의 구조 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE15" %}
+                        <li><a href="/categories/MSE15" class="">Chap.15 폴리머의 특성, 용도 및 공정 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE16" %}
+                        <li><a href="/categories/MSE16" class="">Chap.16 복합 재료 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE17" %}
+                        <li><a href="/categories/MSE17" class="">Chap.17 재료의 부식과 열화 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE18" %}
+                        <li><a href="/categories/MSE18" class="">Chap.18 전기적 성질 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE19" %}
+                        <li><a href="/categories/MSE19" class="">Chap.19 열적 성질 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE20" %}
+                        <li><a href="/categories/MSE20" class="">Chap.20 자기적 성질 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE21" %}
+                        <li><a href="/categories/MSE21" class="">Chap.21 광학적 성질 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MSE22" %}
+                        <li><a href="/categories/MSE22" class="">Chap.22 재료과학과 공학에서 일어나는 환경·사회 문제 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
       </li>
   </ul>
 </nav>
