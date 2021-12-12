@@ -16,6 +16,7 @@
             <span>
               <a href="{{ post.url }}">{{post.title}}</a>
             </span>
+            <br>
             <small> 
               <i class="fas fa-fw fa-calendar-alt" aria-hidden="true"> </i>{{ post.date | date: " %Y.%m.%d" }}
                 {% if site.category_archive.type and post.categories[0] %}
