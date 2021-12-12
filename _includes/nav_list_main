@@ -277,6 +277,14 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+        <span class="nav__sub-title">Science Story</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "scistory" %}
+                        <li><a href="/categories/scistory" class="">Science Story ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
       </li>
   </ul>
 </nav>
