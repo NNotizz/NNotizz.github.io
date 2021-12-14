@@ -1,5 +1,5 @@
 ---
-title: "Chap.02 원자, 분자와 이온"
+title: "Chap.02 원자, 세상을 이루는 입자"
 layout: archive
 permalink: categories/chemistry02
 auther_profile: true
