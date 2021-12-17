@@ -4,10 +4,6 @@ last_modified_at: 2021-11-12
 categories:
     - knowplus
 tags:
-    - Physics
-    - electrical
-    - magnetic
-    - optical
     - 물리학
     - 전기
     - 자기
