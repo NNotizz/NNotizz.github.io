@@ -19,7 +19,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry02" %}
-                        <li><a href="/categories/chemistry02" class="">Chap.02 원자, 세상을 이루는 입자 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry02" class="">Chap.02 원자, 분자와 이온 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
