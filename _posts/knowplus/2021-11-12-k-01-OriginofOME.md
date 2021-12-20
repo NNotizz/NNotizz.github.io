@@ -9,6 +9,9 @@ tags:
     - 자기
     - 광학
 comments: true
+use_math: true
+toc: true
+toc_sticky: true
 ---
 
 - 전기<sub>electricity</sub>

@@ -9,6 +9,9 @@ tags:
     - 상수
     - SI 단위계
 comments: true
+use_math: true
+toc: true
+toc_sticky: true
 ---
 
 t

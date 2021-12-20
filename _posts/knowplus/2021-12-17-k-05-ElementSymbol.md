@@ -9,6 +9,9 @@ tags:
     - 화합물
     - 화학식
 comments: true
+use_math: true
+toc: true
+toc_sticky: true
 ---
 
 t

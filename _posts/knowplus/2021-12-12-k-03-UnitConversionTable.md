@@ -8,5 +8,9 @@ tags:
     - 단위
     - 차원
 comments: true
+use_math: true
+toc: true
+toc_sticky: true
 ---
 
+t
