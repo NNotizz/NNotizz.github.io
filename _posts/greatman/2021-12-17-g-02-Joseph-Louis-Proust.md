@@ -7,6 +7,9 @@ tags:
     - 조제프 루이 프루스트
     - 일정 성분비의 법칙
 comments: true
+use_math: true
+toc: true
+toc_sticky: true
 ---
 
 t

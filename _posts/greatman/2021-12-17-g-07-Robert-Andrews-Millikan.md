@@ -9,6 +9,9 @@ tags:
     - 질량
     - 노벨 물리학상
 comments: true
+use_math: true
+toc: true
+toc_sticky: true
 ---
 
 t

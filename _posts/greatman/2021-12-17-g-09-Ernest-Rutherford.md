@@ -8,6 +8,9 @@ tags:
     - 핵 원자
     - 노벨 화학상
 comments: true
+use_math: true
+toc: true
+toc_sticky: true
 ---
 
 t

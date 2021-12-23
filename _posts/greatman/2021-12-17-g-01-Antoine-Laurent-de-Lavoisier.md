@@ -8,6 +8,9 @@ tags:
     - 근대 화학의 아버지
     - 질량 보존의 법칙
 comments: true
+use_math: true
+toc: true
+toc_sticky: true
 ---
 
 t
