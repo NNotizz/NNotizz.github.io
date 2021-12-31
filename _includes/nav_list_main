@@ -114,6 +114,55 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry16"%}
+                        <li><a href="/categories/chemistry16" class="">Chap.16 용해도와 착이온 평형 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry17"%}
+                        <li><a href="/categories/chemistry17" class="">Chap.17 자발성, 엔트로피와 자유에너지 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry18"%}
+                        <li><a href="/categories/chemistry18" class="">Chap.18 전기화학 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry19"%}
+                        <li><a href="/categories/chemistry19" class="">Chap.19 핵: 화학자의 관점 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry20"%}
+                        <li><a href="/categories/chemistry20" class="">Chap.20 주족 원소 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry21"%}
+                        <li><a href="/categories/chemistry21" class="">Chap.21 전이 금속과 배위 화학 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "chemistry22"%}
+                        <li><a href="/categories/chemistry22" class="">Chap.15 유기 및 생물학적 분자 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
         <span class="nav__sub-title">MSE</span>
             <ul>
                 {% for category in site.categories %}
