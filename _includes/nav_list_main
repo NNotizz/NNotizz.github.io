@@ -318,14 +318,6 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">Appendix</span>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "knowplus" %}
-                        <li><a href="/categories/knowplus" class="">지식+ ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
         <span class="nav__sub-title">Science Story</span>
             <ul>
                 {% for category in site.categories %}
@@ -336,8 +328,30 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "knowplus" %}
+                        <li><a href="/categories/knowplus" class="">지식+ ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "greatman" %}
                         <li><a href="/categories/greatman" class="">위인 이야기 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        <span class="nav__sub-title">Another</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "tool" %}
+                        <li><a href="/categories/tool" class="">Tool ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "blog" %}
+                        <li><a href="/categories/blog" class="">Blog ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
