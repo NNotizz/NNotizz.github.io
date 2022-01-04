@@ -12,154 +12,154 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry01" %}
-                        <li><a href="/categories/chemistry01" class="">Chap.01 화학의 기초 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry01" class="">C.01 화학의 기초 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry02" %}
-                        <li><a href="/categories/chemistry02" class="">Chap.02 원자, 분자와 이온 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry02" class="">C.02 원자, 분자와 이온 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry03"%}
-                        <li><a href="/categories/chemistry03" class="">Chap.03 화학량론 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry03" class="">C.03 화학량론 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry04"%}
-                        <li><a href="/categories/chemistry04" class="">Chap.04 화학 반응의 종류와 용액의 화학량론 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry04" class="">C.04 화학 반응의 종류와 용액의 화학량론 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry05"%}
-                        <li><a href="/categories/chemistry05" class="">Chap.05 기체 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry05" class="">C.05 기체 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry06"%}
-                        <li><a href="/categories/chemistry06" class="">Chap.06 열화학 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry06" class="">C.06 열화학 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry07"%}
-                        <li><a href="/categories/chemistry07" class="">Chap.07 원자 구조와 주기성 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry07" class="">C.07 원자 구조와 주기성 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry08"%}
-                        <li><a href="/categories/chemistry08" class="">Chap.08 결합: 일반 개념 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry08" class="">C.08 결합: 일반 개념 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry09"%}
-                        <li><a href="/categories/chemistry09" class="">Chap.09 공유결합: 오비탈 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry09" class="">C.09 공유결합: 오비탈 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry10"%}
-                        <li><a href="/categories/chemistry10" class="">Chap.10 액체와 고체 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry10" class="">C.10 액체와 고체 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry11"%}
-                        <li><a href="/categories/chemistry11" class="">Chap.11 용액의 특성 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry11" class="">C.11 용액의 특성 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry12"%}
-                        <li><a href="/categories/chemistry12" class="">Chap.12 화학 반응 속도론 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry12" class="">C.12 화학 반응 속도론 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry13"%}
-                        <li><a href="/categories/chemistry13" class="">Chap.13 화학 평형 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry13" class="">C.13 화학 평형 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry14"%}
-                        <li><a href="/categories/chemistry14" class="">Chap.14 산과 염기 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry14" class="">C.14 산과 염기 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry15"%}
-                        <li><a href="/categories/chemistry15" class="">Chap.15 산-염기 평형 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry15" class="">C.15 산-염기 평형 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry16"%}
-                        <li><a href="/categories/chemistry16" class="">Chap.16 용해도와 착이온 평형 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry16" class="">C.16 용해도와 착이온 평형 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry17"%}
-                        <li><a href="/categories/chemistry17" class="">Chap.17 자발성, 엔트로피와 자유에너지 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry17" class="">C.17 자발성, 엔트로피와 자유에너지 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry18"%}
-                        <li><a href="/categories/chemistry18" class="">Chap.18 전기화학 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry18" class="">C.18 전기화학 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry19"%}
-                        <li><a href="/categories/chemistry19" class="">Chap.19 핵: 화학자의 관점 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry19" class="">C.19 핵: 화학자의 관점 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry20"%}
-                        <li><a href="/categories/chemistry20" class="">Chap.20 주족 원소 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry20" class="">C.20 주족 원소 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry21"%}
-                        <li><a href="/categories/chemistry21" class="">Chap.21 전이 금속과 배위 화학 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry21" class="">C.21 전이 금속과 배위 화학 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chemistry22"%}
-                        <li><a href="/categories/chemistry22" class="">Chap.15 유기 및 생물학적 분자 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chemistry22" class="">C.15 유기 및 생물학적 분자 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -167,154 +167,154 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE01" %}
-                        <li><a href="/categories/MSE01" class="">Chap.01 서론 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE01" class="">C.01 서론 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE02" %}
-                        <li><a href="/categories/MSE02" class="">Chap.02 원자 구조와 원자 결합 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE02" class="">C.02 원자 구조와 원자 결합 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE03" %}
-                        <li><a href="/categories/MSE03" class="">Chap.03 결정질 고체의 구조 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE03" class="">C.03 결정질 고체의 구조 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE04" %}
-                        <li><a href="/categories/MSE04" class="">Chap.04 고체 내의 결함 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE04" class="">C.04 고체 내의 결함 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE05" %}
-                        <li><a href="/categories/MSE05" class="">Chap.05 확산 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE05" class="">C.05 확산 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE06" %}
-                        <li><a href="/categories/MSE06" class="">Chap.06 금속의 기계적 성질 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE06" class="">C.06 금속의 기계적 성질 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE07" %}
-                        <li><a href="/categories/MSE07" class="">Chap.07 전위와 강화 기구 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE07" class="">C.07 전위와 강화 기구 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE08" %}
-                        <li><a href="/categories/MSE08" class="">Chap.08 파손 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE08" class="">C.08 파손 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE09" %}
-                        <li><a href="/categories/MSE09" class="">Chap.09 상태도 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE09" class="">C.09 상태도 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE10" %}
-                        <li><a href="/categories/MSE10" class="">Chap.10 상변태: 미세조직의 전개 및 기계적 성질의 변화 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE10" class="">C.10 상변태: 미세조직의 전개 및 기계적 성질의 변화 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE11" %}
-                        <li><a href="/categories/MSE11" class="">Chap.11 금속 합금의 활용 및 가공처리 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE11" class="">C.11 금속 합금의 활용 및 가공처리 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE12" %}
-                        <li><a href="/categories/MSE12" class="">Chap.12 세라믹의 구조 및 특성 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE12" class="">C.12 세라믹의 구조 및 특성 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE13" %}
-                        <li><a href="/categories/MSE13" class="">Chap.13 세라믹의 응용 및 공정 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE13" class="">C.13 세라믹의 응용 및 공정 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE14" %}
-                        <li><a href="/categories/MSE14" class="">Chap.14 폴리머의 구조 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE14" class="">C.14 폴리머의 구조 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE15" %}
-                        <li><a href="/categories/MSE15" class="">Chap.15 폴리머의 특성, 용도 및 공정 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE15" class="">C.15 폴리머의 특성, 용도 및 공정 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE16" %}
-                        <li><a href="/categories/MSE16" class="">Chap.16 복합 재료 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE16" class="">C.16 복합 재료 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE17" %}
-                        <li><a href="/categories/MSE17" class="">Chap.17 재료의 부식과 열화 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE17" class="">C.17 재료의 부식과 열화 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE18" %}
-                        <li><a href="/categories/MSE18" class="">Chap.18 전기적 성질 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE18" class="">C.18 전기적 성질 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE19" %}
-                        <li><a href="/categories/MSE19" class="">Chap.19 열적 성질 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE19" class="">C.19 열적 성질 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE20" %}
-                        <li><a href="/categories/MSE20" class="">Chap.20 자기적 성질 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE20" class="">C.20 자기적 성질 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE21" %}
-                        <li><a href="/categories/MSE21" class="">Chap.21 광학적 성질 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE21" class="">C.21 광학적 성질 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MSE22" %}
-                        <li><a href="/categories/MSE22" class="">Chap.22 재료과학과 공학에서 일어나는 환경·사회 문제 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/MSE22" class="">C.22 재료과학과 공학에서 일어나는 환경·사회 문제 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
