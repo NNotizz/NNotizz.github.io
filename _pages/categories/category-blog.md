@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 layout: archive
-permalink: categories/scistory
+permalink: categories/blog
 auther_profile: true
 sidebar_main: true
 ---

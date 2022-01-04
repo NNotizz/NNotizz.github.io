@@ -1,7 +1,7 @@
 ---
 title: "Tool"
 layout: archive
-permalink: categories/scistory
+permalink: categories/tool
 auther_profile: true
 sidebar_main: true
 ---
