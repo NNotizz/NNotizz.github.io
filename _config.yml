@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Chemilk"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/favicon.ico/ms-icon-310x310.png"
   bio              : "I am a student of MSE"
   location         : "Seoul, South Korea"
   email            : chemilk02@gmail.com
