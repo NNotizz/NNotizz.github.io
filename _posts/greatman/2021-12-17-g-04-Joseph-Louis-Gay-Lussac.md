@@ -11,6 +11,7 @@ comments: true
 use_math: true
 toc: true
 toc_sticky: true
+published : false
 ---
 
 <이 문서는 자료 조사중인 문서입니다>
