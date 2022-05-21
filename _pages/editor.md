@@ -1,6 +1,6 @@
 ---
-title: "Content"
+title: "Editor"
 layout: categories
-permalink: /categories/
+permalink: /editor/
 auther_profile: false
 ---

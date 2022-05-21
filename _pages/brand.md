@@ -1,6 +1,6 @@
 ---
-title: "Content"
+title: "brand"
 layout: categories
-permalink: /categories/
+permalink: /brand/
 auther_profile: false
 ---

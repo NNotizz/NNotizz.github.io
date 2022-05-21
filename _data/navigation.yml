@@ -1,6 +1,10 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Lecture List"
+  - title: "Content"
     url: /categories/
+  - title: "Refernece"
+    url: /reference/
+  - title: "Editor"
+    url: /editor/
+  - title: "Brand"
+    url: /brand/
