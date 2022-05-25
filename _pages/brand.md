@@ -1,6 +1,7 @@
 ---
 title: "brand"
 permalink: /brand/
+layout: archive
 auther_profile: false
 ---
 
