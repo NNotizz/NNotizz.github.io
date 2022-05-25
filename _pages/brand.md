@@ -1,20 +1,20 @@
 ---
-title: "brand"
+title: "Brand"
 permalink: /brand/
 layout: archive
 auther_profile: false
 ---
 
-## Brand
-
-### Logo
+## Logo
 
 <div class="logo">
     <div class="logo-img">
         <img id="logo-img-file" src="https://user-images.githubusercontent.com/79562050/170211299-3c339e45-8272-4c89-ac22-55f776ea27c8.png">
     </div>
     <div class="logo-txt">
+    <p>
     'Notiz'의 첫 글자 'N'에 미래로 나아가는 과학공학이라는 브랜드의 가치를 담았다.
+    </p>
     </div>
 </div>
 
@@ -34,7 +34,7 @@ auther_profile: false
     text-align: center;
 }
 .logo-txt{
-    flex-grow: 1;
+    flex: 1 40%;
     font-size: 1.2rem;
     line-height: 1.5rem;
     font-family: 'Noto Sans KR', sans-serif;
