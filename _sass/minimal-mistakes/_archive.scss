@@ -44,10 +44,14 @@
 
 .archive__item {
   position: relative;
+  display: flex;
+  align-items: center;
+  margin: 1em 0em;
 
   a {
     position: relative;
     z-index: 10;
+    text-decoration: none;
   }
 
   a[rel="permalink"] {
