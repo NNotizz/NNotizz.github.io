@@ -1,7 +1,7 @@
 ---
 title: "Chap.01 서론"
 layout: archive
-permalink: categories/MSE01
+permalink: categories/mse01
 auther_profile: true
 sidebar_main: true
 ---
