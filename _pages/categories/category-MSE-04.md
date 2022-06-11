@@ -1,7 +1,7 @@
 ---
 title: "Chap.04 고체 내의 결함"
 layout: archive
-permalink: categories/MSE04
+permalink: categories/mse04
 auther_profile: true
 sidebar_main: true
 ---
