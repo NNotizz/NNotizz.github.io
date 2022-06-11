@@ -1,7 +1,7 @@
 ---
 title: "Chap.05 확산"
 layout: archive
-permalink: categories/MSE05
+permalink: categories/mse05
 auther_profile: true
 sidebar_main: true
 ---
