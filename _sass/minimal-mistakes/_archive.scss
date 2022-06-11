@@ -153,6 +153,10 @@
    ========================================================================== */
 
 .list__item {
+  &:not(:last-child) {
+    border-bottom: solid 1px $border-color;
+  }
+  
   .page__meta {
     margin: 0 0 4px;
     font-size: 0.6em;
