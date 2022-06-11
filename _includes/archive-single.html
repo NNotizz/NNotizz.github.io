@@ -46,5 +46,13 @@
     {% if site.category_archive.type and post.categories[0] and site.tag_archive.type and post.tags[0] %}
       {%- include post__taxonomy.html -%}
     {% endif %}
+    
+    {% if post.thumbnail %}
+      <div class="archive__thumbnail-container">
+        <a href="{{ post.url | relative_url }}" rel="permalink">
+          <img class="archive__thumbnail" src="{{ post.thumbnail }}" alt="게시글 썸네일" />
+        </a>
+      </div>
+    {% endif %}
 </article>
 </div>
