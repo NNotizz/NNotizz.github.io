@@ -1,5 +1,9 @@
 //custom
 
+.archive__content {
+  width: calc(100% - 124px);
+}
+
 .archive__thumbnail-container {
   position: absolute;
   right: 0;
