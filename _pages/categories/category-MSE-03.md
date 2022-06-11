@@ -1,7 +1,7 @@
 ---
 title: "Chap.03 결정질 고체의 구조"
 layout: archive
-permalink: categories/MSE03
+permalink: categories/mse03
 auther_profile: true
 sidebar_main: true
 ---
