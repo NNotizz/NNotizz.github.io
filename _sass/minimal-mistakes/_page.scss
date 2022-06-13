@@ -284,6 +284,26 @@ body {
 }
 
 /*
+   Page explanation
+   ========================================================================== */
+
+.archive__explanation {
+  margin-top: 2em;
+  color: $muted-text-color;
+  font-family: $sans-serif;
+  font-size: $type-size-5;
+  
+  p {
+    margin: 0;
+  }
+
+  a {
+    color: inherit;
+  }
+}
+
+
+/*
    Page meta
    ========================================================================== */
 
