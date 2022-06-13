@@ -67,12 +67,12 @@
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0.2em;
   }
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.1em;
   font-family: $sans-serif-narrow;
   line-height: initial;
   overflow: hidden;
@@ -95,7 +95,7 @@
 /* remove border*/
 .page__content {
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0.4em;
     border-bottom: none;
   }
 }
@@ -242,7 +242,7 @@
   }
 
   .archive__explanation {
-    margin-top: 0.5em;
+    margin-top: 0.2em;
     margin-bottom: 0em;
     color: $muted-text-color;
     font-family: $sans-serif;
@@ -258,7 +258,7 @@
   }
 
   .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0.2em;
     font-size: $type-size-5;
   }
 
@@ -473,7 +473,7 @@
 .archive {
   .feature__wrapper {
     .archive__item-title {
-      margin-top: 0.25em;
+      margin-top: 0.1em;
       font-size: 1em;
     }
   }
