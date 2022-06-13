@@ -74,8 +74,8 @@
   color: $muted-text-color;
   border-bottom: 1px solid $border-color;
 
-  + .list__item .archive__item-title {
-    margin-top: 0.1em;
+.list__item .archive__item-title {
+  margin-top: 0.1em;
   }
 }
 
@@ -168,6 +168,10 @@
   .page__meta {
     margin: 0 0 4px;
     font-size: 0.6em;
+  }
+  
+  .archive__item-title {
+      margin-top: 0.1em;
   }
 }
 
