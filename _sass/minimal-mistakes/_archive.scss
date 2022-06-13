@@ -148,6 +148,16 @@
   }
 }
 
+.archive__explanation {
+    margin-top:; 0.2em;
+    margin-bottom: 0em;
+    color: $muted-text-color;
+    font-family: $sans-serif;
+    font-size: $type-size-7;
+    
+    p { margin: 0;}
+}
+
 /*
    List view
    ========================================================================== */
@@ -163,15 +173,15 @@
   }
 }
 
-  .archive__explanation { 
-     margin-top: 0.2em; 
-     margin-bottom: 0em; 
-     color: $muted-text-color; 
-     font-family: $sans-serif; 
-     font-size: $type-size-7; 
-      
-     p { margin: 0; }
-   }
+.archive__explanation { 
+    margin-top: 0.2em; 
+    margin-bottom: 0em; 
+    color: $muted-text-color; 
+    font-family: $sans-serif; 
+    font-size: $type-size-7; 
+ 
+    p { margin: 0; }
+}
 
 /*
    Grid view
