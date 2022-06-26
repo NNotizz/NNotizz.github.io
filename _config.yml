@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -19,11 +19,11 @@ locale                   : "ko-KR"
 title                    : "Notiz"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Chemilk02"
-description              : "Lecture Summary blog"
-url                      : "https://chemilk02.github.io"
+name                     : "Notiz"
+description              : "미래를 향해 나아가는 과학공학 이야기, 알기쉽게 풀어 쓴 너와 나의 과학노트"
+url                      : "https://nnotizz.github.io"
 baseurl                  : ""
-repository               : "chemilk02/comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"""
+repository               : "NNotizz/NNotizz.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"""
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -94,9 +94,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : G-PLGYTW6FJ5
+    tracking_id          : 
     anonymize_ip         : # true, false (default)
 
 
@@ -289,6 +289,3 @@ defaults:
       share: true
       related: true
       sidebar_main: true
-
-
-remote_theme : mmistakes/minimal-mistakes
