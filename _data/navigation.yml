@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Content"
+  - title: "CONTENTS"
     url: /categories/
-  - title: "Refernece"
+  - title: "REFERENCES"
     url: /references/
-  - title: "Editor"
+  - title: "EDITORS"
     url: /editor/
-  - title: "Brand"
+  - title: "BRAND"
     url: /brand/
