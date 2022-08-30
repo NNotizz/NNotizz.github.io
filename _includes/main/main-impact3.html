@@ -1,0 +1,99 @@
+<div class="main-impact-cont">
+    <div class="main-impact-img">
+        <img id="impactimg" src="">
+    </div>
+    <div class="main-impact-exp">
+       <div class="main-impact-text">
+        <p id="main-impact-text-sub">손쉽게 질문하고 답변하는</p>
+        <p id="main-impact-text-main">Notiz Question System</p>
+        <p id="main-impact-text-exp">글을 읽다 모르는 내용이 생기면<br>바로바로 물어보고 궁금함을 해소하는<br>우리들의 질문공간</p>
+       </div>
+    </div>
+</div>
+
+<style>
+    .main-impact-cont
+    {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction:row;
+        justify-content: center;
+    }
+    .main-impact-img
+    {
+        flex: 1 1 375px;
+        height: 50vw;
+        text-align: center;
+        background-color: #f3f3f3;
+    }
+    .main-impact-exp
+    {
+        flex: 1 1 375px;
+        font-family: 'Noto Sans KR', sans-serif;
+        padding: 0;
+    }
+    .main-impact-text
+    {
+        margin: 3vw;
+    }
+    #main-impact-text-sub
+    {
+        font-size: 1rem;
+        line-height: 1.2rem;
+        color: #003669;
+        margin: 0px;
+    }
+    #main-impact-text-main
+    {
+        font-size: 2.5rem;
+        font-weight:bold;
+        line-height: 2.5rem;
+        color: #003669;
+        margin: 0px;
+    }
+    #main-impact-text-exp
+    {
+        font-size: 1rem;
+        line-height: 1.2rem;
+        color: #0c0c0c;
+        margin: 1rem 0rem 1rem 0rem;
+    }
+    .button1
+    {
+        height: 2rem;
+        background-color: #003669;
+        color: #f3f3f3;
+        border: none;
+        border-radius: 0.5rem;
+        font-size: 1rem;
+        font-weight: middle;
+    }
+    .main-impact-related
+    {
+        margin: 0rem 3vw 0rem 3vw;
+    }
+    #main-impact-related-title
+    {
+        font-size: 1rem;
+        line-height: 1rem;
+        color: #003669;
+        margin-bottom: 0.5rem;
+    }
+    .main-impact-related-card
+    {
+        display: flex;
+        overflow-x: auto;
+		-webkit-overflow-scrolling: touch;
+		scroll-snap-type: x mandatory;
+    }
+    .main-impact-related-card-item
+    {
+        flex: 0 0 40%;
+        scroll-snap-align:start;
+        background-color: #f3f3f3;
+        border-radius: 0.5rem;
+        margin: 0rem 1rem 0rem 0rem;
+        height: calc(41vw - 12.8rem);
+    }
+</style>
