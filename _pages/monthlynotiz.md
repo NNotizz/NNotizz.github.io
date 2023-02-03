@@ -1,12 +1,11 @@
 ---
 title: Monthly Not!z
-title: false
-layout: archive
+layout: archive2
 permalink: /monthlynotiz/
 sidebar: false
 sidebar_main: false
 auther_profile: false
-breadcrumbs: false
+breadcrumb: false
 ---
 
 {% include monthlynotiz-banner.html %}
