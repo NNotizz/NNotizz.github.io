@@ -1,7 +1,8 @@
 ---
-title: "Monthly Not!z"
 layout: archive
 permalink: /monthlynotiz/
+sidebar: false
+sidebar_main: false
 auther_profile: false
 ---
 
