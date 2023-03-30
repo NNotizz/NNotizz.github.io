@@ -2,8 +2,6 @@
 main:
   - title: "CONTENTS"
     url: /categories/
-  - title: "REFERENCES"
-    url: /references/
   - title: "EDITORS"
     url: /editor/
   - title: "BRAND"
